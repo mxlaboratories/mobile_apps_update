@@ -3,12 +3,18 @@
     <channel>
         <title>Heartmonitor</title>
         <item>
-            <title>Heartmonitor 0.1.90</title>
-            <description>Some description for testing</description>
-            <pubDate>Fri, 12 nov 2021 12:00:00 +0000</pubDate>
+            <title>Heartmonitor 0.1.93</title>
+            <description>
+            - Facebook sign in 
+            - New measurements and drugs reminders
+            - Popup with information about every new update
+            - Portuguese & Hindi translations
+            - Fix minnor bugs 
+            </description>
+            <pubDate>Mon, 15 nov 2021 12:00:00 +0000</pubDate>
             <enclosure
                 url="https://play.google.com/store/apps/details?id=ai.mxlabs.heartmonitor&hl=pl&gl=US"
-                sparkle:os="android" sparkle:version="0.1.90" />
+                sparkle:os="android" sparkle:version="0.1.93" />
         </item>
     </channel>
 </rss>
