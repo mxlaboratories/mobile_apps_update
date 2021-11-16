@@ -3,17 +3,17 @@
     <channel>
         <title>Heartmonitor</title>
         <item>
-            <title>Heartmonitor 0.1.93</title>
-            <description>- Facebook sign in 
-- New measurements and drug reminders
-- Popup with information about every new update
-- Portuguese & Hindi translations
-- Fix minor bugs 
+            <title>Heartmonitor 0.1.91</title>
+            <description>- Medical reminders
+- Facebook sign-in
+- Portuguese translation
+- Hindi translation
+- Minor improvements
             </description>
-            <pubDate>Mon, 15 nov 2021 12:00:00 +0000</pubDate>
+            <pubDate>Wed, 15 nov 2021 20:00:00 +0000</pubDate>
             <enclosure
                 url="https://play.google.com/store/apps/details?id=ai.mxlabs.heartmonitor&hl=pl&gl=US"
-                sparkle:os="android" sparkle:version="0.1.93" />
+                sparkle:os="android" sparkle:version="0.1.91" />
         </item>
     </channel>
 </rss>
